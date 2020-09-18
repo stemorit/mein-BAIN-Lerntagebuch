@@ -4,4 +4,4 @@ title: Lerntagebuch
 
 ## Willkommen zu meinem Lerntagebuch
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Dieses Lerntagebuch dient als Leistungsnachweis im Modul BAIN, Bibliotheks- und Archivinformatik. Hier wird jede Unterrichtseinheit von mir reflektiert. Viel Spass beim durchstöbern und bewerten.
